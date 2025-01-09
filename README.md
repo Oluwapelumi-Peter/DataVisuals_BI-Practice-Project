@@ -1,11 +1,10 @@
-# SetUp_Check
-
-# EQUIPMENT SERVICE BUSINESS INTELLIGENCE _ DATA VISUALIZATION
+# Equipment Service Business Intelligence _ Data Visualization
 
 
-This data visualization project was designed to provide business intelligence for the service operations of a fictitious equipment service company.
+This data visualization project was developed to provide business intelligence for the service operations of a fictitious equipment service company.
 
-It spotlights some key business metrics as described below.
+It spotlights some key business metrics with respect to the performance of the service operations.
+These business metrics are described below.
 
 
 ## Business Metrics Definition
@@ -46,8 +45,8 @@ It spotlights some key business metrics as described below.
 
 The business metrics are presented for
 
-1. Service divisions (regions)
+1. Service regions
 2. Service engineers
-3. Customers (banks)
+3. Customers
 
-The dashboards are interactive in that there is a subject selector that enable users to query for specific subjects.
+The dashboards are interactive in that there is a subject selector that enable users to query the dashboard for specific subjects.
